@@ -1,3 +1,7 @@
 git is a good thing
-git is bad app
+<<<<<<< HEAD
+git is good app
+=======
+git is good app
+>>>>>>> dev
 fu tijiao yici
